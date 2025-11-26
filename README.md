@@ -159,7 +159,7 @@ index.php?page=user/edit&id=...
 ---
 
 # 4. Pembahasan Singkat
-**Modularisasi**
+**🔹Modularisasi**
 
 Modularisasi diterapkan dengan memisahkan komponen yang digunakan secara berulang, yaitu:
 
@@ -169,7 +169,7 @@ footer.php
 Hal ini membuat struktur kode lebih bersih dan mudah dipelihara.
 
 
-**Routing**
+**🔹Routing**
 
 Routing diterapkan melalui parameter:
 ?page=
@@ -178,13 +178,13 @@ yang kemudian diproses oleh index.php untuk memanggil file yang sesuai.
 Routing ini memungkinkan navigasi antar halaman tanpa perlu menulis banyak file HTML terpisah.
 
 
-**Koneksi Database**
+**🔹Koneksi Database**
 
 Koneksi database dibuat pada satu file terpusat:
 config/database.php
 Sehingga apabila konfigurasi berubah, hanya perlu diperbarui pada satu lokasi.
 
-**CRUD**
+**🔹CRUD**
 
 Implementasi CRUD mencakup:
 
