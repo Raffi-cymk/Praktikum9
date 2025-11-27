@@ -203,7 +203,7 @@ CRUD dibuat pada folder terpisah user/ agar struktur lebih terorganisasi.
 
 # 5. Pertanyaan dan Tugas
 
-Implementasikan konsep modularisasi pada kode program praktikum 9 tentang database, sehingga setiap halamannya memiliki template tampilan yang sama. Dan terapkan penggunaan Routing agar project menjadi lebih modular.
+Implementasikan konsep modularisasi pada kode program praktikum 8 tentang database, sehingga setiap halamannya memiliki template tampilan yang sama. Dan terapkan penggunaan Routing agar project menjadi lebih modular.
 
 <img width="911" height="619" alt="image" src="https://github.com/user-attachments/assets/bbde54dc-c364-4433-b6b0-43b1b2e041e3" />
 
